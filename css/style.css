@@ -4,3 +4,22 @@
 img {
   margin:auto;
 }
+body {
+ background-color:#00285e;
+}
+h1 {
+  color:white;
+}
+body {
+background-image:url(../img/Steam.jpg);
+}
+p{
+  color:white;
+  font-style:Verdana;
+  font-size:35px;
+}
+a {
+  color:white;
+  font-size:20px;
+  font-style:italic;
+}
